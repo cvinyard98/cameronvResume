@@ -19,7 +19,10 @@ __Printer Delivery__, ARPA Transport
 - Located, contacted, and delivered products to customers
 - Ensured safe transportation and storage of heavy machinery
 
-
+`May - August, 2020`
+__Census Enumerator__, United States Census
+- Contacted and conducted interviews with specific individuals
+- Carefully recorded responses to prewritten questions
 
 `2017-2019`
 __Representative for the Church of Jesus Christ of Latter Day Saints__, Tennessee
