@@ -2,11 +2,10 @@
 layout: cv
 title: Cameron Vinyard
 ---
-
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-
+BS in Computer Science
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 - 3.7 Major GPA
